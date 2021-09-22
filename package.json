@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Ranjith Suranga <suranga@ijse.lk> (ijse.lk)",
   "scripts": {
-    "build": "parcel build index.html 404.html --out-dir docs"
+    "build": "parcel build index.html 404.html --out-dir docs --public-url /pos-bootstrap/"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
