@@ -1,10 +1,9 @@
 {
-  "name": " ",
-  "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "name": "pos-bootstrap",
+  "version": "1.0.0",
+  "description": "Simple POS Dashboard using Bootstrap 4",
+  "license": "MIT",
+  "author": "Ranjith Suranga <suranga@ijse.lk> (ijse.lk)",
   "scripts": {
     "build": "parcel build index.html 404.html --out-dir docs"
   },
